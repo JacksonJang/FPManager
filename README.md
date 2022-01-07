@@ -5,9 +5,11 @@
 [![License](https://img.shields.io/cocoapods/l/FPManager.svg?style=flat)](https://cocoapods.org/pods/FPManager)
 [![Platform](https://img.shields.io/cocoapods/p/FPManager.svg?style=flat)](https://cocoapods.org/pods/FPManager)
 
-## Example
+## Overview
 
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
+FPManger abbreviation is FileProtectManger.
+
+Use "FPManager" for files to protect. you can use like "DRM(Digital Rights Management)
 
 ## Requirements
 
