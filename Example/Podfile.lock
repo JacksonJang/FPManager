@@ -1,0 +1,16 @@
+PODS:
+  - FPManager (0.1.0)
+
+DEPENDENCIES:
+  - FPManager (from `../`)
+
+EXTERNAL SOURCES:
+  FPManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FPManager: 7f48a0d2833c28fe62c4c113664d08e5ce493fe0
+
+PODFILE CHECKSUM: e936efb76739b40f3b249b0482cb9a72c5e1256b
+
+COCOAPODS: 1.11.2

@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'FPManager_Example' do
+  pod 'FPManager', :path => '../'
+
+  target 'FPManager_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
